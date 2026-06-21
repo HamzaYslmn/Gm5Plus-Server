@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cihaz yedekleri — GitHub'a pushlanmaz (buyuk binary + IMEI/EFS hassas)
+AndroidOne/backup/
+AndroidOne/telegram/
